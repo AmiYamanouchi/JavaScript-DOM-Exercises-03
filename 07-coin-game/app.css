@@ -1,0 +1,11 @@
+body{
+    max-width: 100px;
+    
+}
+
+img {
+    width: 100px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
